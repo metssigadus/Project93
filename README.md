@@ -8,7 +8,7 @@ A KiCAD project.
 Disclaimer: This repository is mostly for me myself. I believe in copyleft.
 Initial src: 1) http://sound.whsites.net/articles/mic-electret.htm 2) http://sound.whsites.net/project93.htm 
 Schematics:
-![Schematics](Pic/20170609_015923-c.jpg?raw=true "Schematics of one one channel")
+![Schematics](Pic/Schematics-screenshot-part.png?raw=true "Schematics of one one channel")
 To obtain a stereo sound image, there are 2 channels (powered separately, having common ground).
 
 ![XLR side](Pic/20170609_015923-c.jpg?raw=true "XLR side")
